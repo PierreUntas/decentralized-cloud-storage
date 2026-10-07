@@ -2,7 +2,7 @@
 
 Welcome to **Decentralized Cloud Storage**, an innovative project combining a powerful backend and an intuitive frontend to deliver a complete decentralized storage solution. This project merges **The Merkle Trees** (backend API) and **The Merkle Trees Client** (frontend interface) into a unified platform.
 
-https://github.com/user-attachments/assets/fe5a8d1f-4621-4ad3-b629-b4cd0c545b93
+https://github.com/user-attachments/assets/af053288-b3f8-4be9-8c1a-b3eb2a94c82b
 
 ## 📋 Table of Contents
 
